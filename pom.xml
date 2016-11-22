@@ -17,6 +17,7 @@
 
     <modules>
         <module>web</module>
+        <module>ui</module>
     </modules>
 
 </project>

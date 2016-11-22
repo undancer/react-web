@@ -76,7 +76,7 @@
         <resources>
             <resource>
                 <directory>build</directory>
-                <targetPath>META-INF/static</targetPath>
+                <targetPath>META-INF/resources</targetPath>
                 <filtering>true</filtering>
             </resource>
         </resources>

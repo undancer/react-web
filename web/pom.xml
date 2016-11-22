@@ -33,9 +33,9 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.boxfishedu</groupId>
-            <artifactId>boxfish-user-info</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <groupId>cn.boxfish.ui</groupId>
+            <artifactId>boxfish-ui</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
